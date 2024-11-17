@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominik Takáč</h1>
-<h3 💫 About Me: I am a 2nd year applied informatics student at University of Constantine the Philosopher, passionate about building web applications.<h3/>
+
+## 💫 About Me: 
+I am a 2nd year applied informatics student at University of Constantine the Philosopher, passionate about building web applications.
 
 ## 🚀 What I'm Up To
 
