@@ -5,7 +5,7 @@
 
 - 💻 Building web applications with ReactJS
 
-👨‍💻 All of my projects are available at [lipsum.com](lipsum.com)
+👨‍💻 All of my projects are available at my [portfolio](https://dominik-takac.vercel.app)
 
 
 ## 🌐 Connect with me:
